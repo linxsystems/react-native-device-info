@@ -31,7 +31,7 @@ import android.util.DisplayMetrics;
 import android.hardware.Camera;
 import android.hardware.camera2.CameraManager;
 
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReactApplicationContext;
